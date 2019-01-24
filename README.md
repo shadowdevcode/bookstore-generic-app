@@ -6,8 +6,9 @@
 1. Django 2.1.x
 
 ### Deployment:
-Heroku
-Check the url in the description of repo. 
+- Heroku.
+
+**Check the url in the description of repo.** 
 
 ### Preview:
 
