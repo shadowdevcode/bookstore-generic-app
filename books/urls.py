@@ -1,7 +1,7 @@
 from django.urls import path
 from . import views
-from django.conf.urls.static import static
-from django.conf import settings
+# from django.conf.urls.static import static
+# from django.conf import settings
 
 app_name = 'books'
 urlpatterns = [
@@ -10,4 +10,4 @@ urlpatterns = [
     path(r'add/', views.BookCreate.as_view(), name='book-add'),
     path(r'book/<int:pk>/', views.BookUpdate.as_view(), name='book-update'),
     path(r'<int:pk>/delete/', views.BookDelete.as_view(), name='book-delete'),
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]
