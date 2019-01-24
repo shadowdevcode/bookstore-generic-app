@@ -26,7 +26,7 @@ SECRET_KEY = 'v94zb^b^z^gw3tou6e@x9^i3e88==5na#ke9%$_9c-*rt*6-1x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['django-bookstore-app.herokuapp.com']
+ALLOWED_HOSTS = ['django-bookstore-app.herokuapp.com', 'bookstore-generic-app.herokuapp.com']
 
 
 # Application definition
