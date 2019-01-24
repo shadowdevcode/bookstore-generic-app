@@ -1,11 +1,10 @@
 # BookStore Web Application
 
-## User can add books and check their respective prices and also read sample available. 
+## User can add books and check their respective prices and also read sample available.
 
-### Technologies Used: 
+### Technologies Used:
 1. Django 2.1.x
-
-# WIP
 
 ### Preview:
 
+![Bookstore-preview](https://user-images.githubusercontent.com/39980643/51700528-67e61c00-2035-11e9-9c36-bc21724593b0.gif)
