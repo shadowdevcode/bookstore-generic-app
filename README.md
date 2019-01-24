@@ -4,7 +4,7 @@
 
 ### Technologies Used: 
 1. Django 2.1.x
-2. 
+WIP
 
 ### Preview:
 
