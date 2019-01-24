@@ -7,3 +7,4 @@
 
 ### Preview:
 
+![Bookstore-preview](https://user-images.githubusercontent.com/39980643/51700528-67e61c00-2035-11e9-9c36-bc21724593b0.gif)
