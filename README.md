@@ -10,7 +10,7 @@
 
 **_Check the url in the description of repo_** 
 
-Or else go to (https://vijaybookweb.herokuapp.com/books)
+Or else go to (https://vijaybookweb.herokuapp.com/)
 
 ### Preview:
 
